@@ -1,4 +1,5 @@
 # Coded by Akk
+# Contact Info : aungkaungkhant866@gmail.com
 
 import random
 chars='abcdefghijklmnopurstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890{[]!@#$%^&*()_+|:<>-=[]\;~`,./}?'
